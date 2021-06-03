@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd to the consideration of the honourable House of Commons, shewing the great necessity of having a bill for the regulating of printing and printing-presses</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92261</idno><idno type="EEBO-CITATION">38875829</idno>
+  <idno type="VID">152338</idno>
+  <idno type="EEBO-PROQUEST">2240873721</idno>
+  
+            <idno type="STC">Wing R553</idno>
+            <idno type="STC">ESTC R42839</idno>
+            <idno type="OCLC">38875829</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd to the consideration of the honourable House of Commons, shewing the great necessity of having a bill for the regulating of printing and printing-presses</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>i sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of printing from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Lincoln's Inn Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Printing industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Book industries and trade --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152338:1"/>
+            <head>REASONS humbly offer'd to the Consideration of the Honourable <hi>House of Commons.</hi>
+            </head>
+            <head type="sub">Shewing the great Necessity of having a Bill for the Regulating of <hi>Printing</hi> and <hi>Printing-Presses.</hi>
+            </head>
+            <p>IT is humbly conceived, That without such a Bill, neither the Government in CHURCH or STATE, nor PROPERTY, can well be secured.</p>
+            <p>As to the GOVERNMENT, how often that hath been assaulted by the viru<g ref="char:EOLhyphen"/>lent Strokes of Bold and Licentious Pens, it is too notorious to need to be instanc'd in by particular Enumerations: Libels have been impudently thrown out almost from every Quarter, since the Determination of the Statute of 13 and 14 <hi>Car.</hi> 2. c. 33. which was thought in a great measure so necessary for preserving the Publick Peace, (and with it every Man's Private Interest in Copies of Books, <hi>&amp;c.</hi>) that
+<note n="*" place="margin">This Act was to conti<g ref="char:EOLhyphen"/>nue two years from <hi>June</hi> 10. 1662. Continued 16 <hi>Car.</hi> 2. c. 8. to the end of the next Session of Parliament. Continued 16 and 17 <hi>Car.</hi> 2. c. 7. to the end of the next Session of Parliament. Continued 17 <hi>Car.</hi> 2. c. 4. to the end of the first Session of the next Parliament. Revived and Continued, 1 <hi>Jac.</hi> 2. c. 17. from <hi>June</hi> 24. 1685. for Seven Years, and from thence to the end of the next Session of Parlia<g ref="char:EOLhyphen"/>ment. Continued, 4 and 5 <hi>W.</hi> and <hi>M.</hi> c. 24. from <hi>Feb.</hi> 13. 1692. to the end of the next Session of Parliament.</note> Parliaments have judg'd it reasonable to continue and revive it no less than Five times, and that in three King's Reigns.</p>
+            <p>But now, we rejoyce that leave hath been given for the bringing in another Bill, which it is hop'd, from your Great Wisdoms, will prove an effectual Barrier to stop the daring Inroads of Insolent and Treasonable Pamphlets, sent abroad by Persons that can<g ref="char:EOLhyphen"/>not be contented with their own Ease, and undisturbed Enjoyments of both their Reli<g ref="char:EOLhyphen"/>gious and Civil Interests, but from their Restless and Malevolent Tempers, are continu<g ref="char:EOLhyphen"/>ally Defaming and Reviling His most Excellent Majesty, and those Worthy Patriots that have all-along given Proofs of their Steady and Indefatigable Zeal for the true Service of their Country: Witness the late Wicked and Scandalous Libel, Entituled, <hi>An Account of the Proceedings in the House of Commons, in Relation to the Re-coyning of the Clipp'd Money, and falling the Price of Guineas,</hi> &amp;c. A Libel so Spiteful and Venomous in its Tendency and Design, that its chief Aim seems levell'd at Exposing the King Himself to Reproach and Obloquy, and many Members of This Honourable House, to the Rage and Fury of the Rabble, that are too often carried away by Popular Fallacies, for want of being able rightly to discern where the Snake in the Grass lies.</p>
+            <p>But we shall not presume to say more of it, You having past so just a Censure of the Pamphlet's being <hi>False, Scandalous, and Seditious, and Destructive of the Freedom and Li<g ref="char:EOLhyphen"/>berties of Parliament,</hi> and accordingly Ordered it <hi>to be Burnt by the Hands of the Common Hangman.</hi>
+            </p>
+            <p>As to the CHURCH, what Wounds she hath receiv'd, and is still like to receive from the
+<note n="*" place="margin">Of this I am sure, That God Almigh<g ref="char:EOLhyphen"/>ty rather than be alone, cre<g ref="char:EOLhyphen"/>ated the De<g ref="char:EOLhyphen"/>vil, <hi>Letters published by Mr.</hi> Dennis, <hi>last Leaf unpag'd.</hi> I'll leave out of my Prayers, <hi>Libera nos à malo,</hi>—For thine is my Kingdom, Power, and Glory, for ever and ever. <hi>Rochester. Familiar Letters, page</hi> 29, 30. <hi>Both Printed in</hi> 1696.</note> Prophane and Blasphemous Affronts of Atheists, Libertines, and Deists, is so openly manifest, That there is no need of recurring further than to the Books Printed since the Expiration of the Act; wherein it is beyond Contradiction evident, That the Black Design is not levell'd at the Church of <hi>England</hi> in Particular, but indeed at Reli<g ref="char:EOLhyphen"/>gion in General; and whether this may not be One way calculated to introduce Popery, deserves a very Serious Consideration.</p>
+            <p>And as to PROPERTY, the Owners of Copies have been grievously damnified by the Invasions made upon them since That time; and how much further, if not prevented, they are like to suffer, (though they purchas'd their said Copies for them and their Assigns, under the Sanction of a Law) is very hard to Determine, or indeed to Conceive.</p>
+            <p>It hath been urg'd, That the Bookseller hath the same Remedy against the Invader of his Property, that other Subjects have. But this, if duly consider'd, carries no solid weight with it; for those that will Invade their Rights, may wage Law with them out of the Profits of their Own Books so Pyrated upon them; and though they should lose the Cause, yet may be considerable Gainers by the Bargain, whilst in the mean time the Proprietor may be ruin'd; it being no easy matter for him to prove out of a stol'n Impression of a Thousand Books, (or perhaps more, especially if dispers'd in the Country by Haberda<g ref="char:EOLhyphen"/>shers, <hi>&amp;c.</hi>) that One hundred of them have been sold; and besides, if this should happen to be prov'd, yet even Then they cannot expect suitable Costs and Damages.</p>
+            <p>Therefore it is humbly propos'd, That whosoever shall Print the Property of any other, may forfeit for every Book <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And that whosoever shall buy such Book or Books to sell again, may likewise forfeit for every Book <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And that whosoever shall use any other man's Name or Mark, without Consent first had and ob<g ref="char:EOLhyphen"/>tain'd,
+<pb facs="tcp:152338:2"/>may forfeit <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> the one Moiety to His Majesty, and the other to the Informer; or otherwise, as to your Great Wisdoms shall be thought fit.</p>
+            <p>And unless such a Property be preserv'd, the Bookseller may not only be ruin'd, but few Books will be Printed well and handsomely, with a fair Letter, and on good Paper; every one endeavouring to Print for his own private Lucre, never regarding the Credit of the Author, or Value of the Book, how Learn'd or Excellent soever, provided his own Narrow Ends be serv'd.</p>
+            <p>Now to remedy all these Evils, it is humbly offer'd, That the Trade of Printing be Limited to a certain Number (as also that of <hi>Letter-Founders</hi>), that so no more than what are at present may be permitted to set up, until by Death, or otherwise, they happen to fall within That Number; according to the Provision of preceding Parliaments.</p>
+            <p>But against this there may seem a plausible Objection, which, if answer'd, it is hop'd will clear the whole.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> The Objection is, That it is very hard that a man should be debarr'd the Liberty of Setting up that Trade to which he has serv'd an Apprentice Seven Years; That this is to make men miserable, by keeping them in a state of Servitude: Whereas had they the Pri<g ref="char:EOLhyphen"/>vilege that all other Traders have, they might be able to advance their Fortunes in the World, as well as other People.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Solution. </seg>
+               </label> In answer to which it may be consider'd, That the whole Bookselling Trade of <hi>England</hi> cannot maintain above Thirty Printing-houses in <hi>London:</hi> And the Fact stands thus, That in the Year 1676. there were but Thirty of 'em in <hi>London;</hi> and even then, tho it was but Ten years from the great Consumption of Books, occasion'd by the Deplorable Fire of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> yet only Sixteen of those drove any considerable Trade, so as to be able to maintain their Families; and now the Trade is multipli'd to Sixty, or thereabouts; whenas there is not half the Employment that was Then.</p>
+            <p>And what can be expected as the Consequence of this, but that both the <hi>Government</hi> in <hi>Church</hi> and <hi>State,</hi> and <hi>Property,</hi> must suffer by it? For these Supernumerary Printers Subsistence must be (if at all) by Printing Libels and Scandalous Pamphlets. Now a Re<g ref="char:EOLhyphen"/>striction in this respect would be so far from making these men miserable, that it would keep them from being so. And we doubt not but we could get the Hands of the Major part of the Workmen-Printers, for a Limitation, they rather chusing a comfortable Sub<g ref="char:EOLhyphen"/>sistence, as Journey-men, than to run the hazard of setting up That Trade which is very Chargeable; and when they have so done, they must fall into the sad necessity of either Libelling, or Invading Property, or else must subject themselves to Beggary and Starving.</p>
+            <p>Moreover,
+<note place="margin">13 and 14 <hi>Car.</hi> 2. Sect. 9.</note> Printing being become <hi>an Art or Manufacture of this Kingdom,</hi> It is humbly of<g ref="char:EOLhyphen"/>fer'd, That no <hi>English</hi> Book, nor any Book (the greatest part whereof is <hi>English</hi>) be Im<g ref="char:EOLhyphen"/>ported, or brought from any Parts beyond the Seas into this Realm, under the Penalty of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Nor any other Book, wherein any of His Majesty's Subjects have a Property, be Imported under the Penalty of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And that No Book whatsoever be im<g ref="char:EOLhyphen"/>ported, save in the Port of <hi>London,</hi> without License first had of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to whom a Catalogue of such Books shall be presented: And all Bales of Books to be examin'd by a proper Person appointed for that End, (at the Custom-house) before they be deliver'd, under the Penalty of</p>
+            <p>All Books to be Licens'd and Entred in the Register of the Company of Stationers, and to have the Bookseller or Printer's Name; and no Translation of any Book, nor any Book Printed beyond Sea, to be enter'd, until a Perfect Copy of the same Book or Books be produc'd to the Licencer, and then the Entry to be under the Hand of one of the War<g ref="char:EOLhyphen"/>dens of the said Company.</p>
+            <p>And for as much as many of His Majesty's Subjects are <hi>Binders</hi> of Books,
+<note place="margin">25. <hi>H.</hi> 8. c. 15.</note> and have no other Faculty wherewith to get their Living; It is humbly desir'd, That no Bound Books be Imported, unless they have been Printed Seven years before such their Importation, to prevent the Book-binders utter undoing, by being destitute of Work, under the Penalty of</p>
+            <p>It is humbly also offer'd, That there may be no Printing but in <hi>London,</hi> the Two Uni<g ref="char:EOLhyphen"/>versities, and <hi>York;</hi> the Printing in <hi>London</hi> to be subject to such Regulations as the Act shall appoint; which the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> shall have power to cause and compel to be observ'd and kept; or Master and Wardens of the Company of Stationers for the time being; the Vice-Chancellor of each University to have the like Power over the Printers there; and the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> over that Printing-house of <hi>York:</hi> And that such Person or Persons, as may be thought convenient, may be authoriz'd, with a Constable, to enter into the Houses of Printers, Booksellers, Book-binders, and Publishers of Books, and there search and seize all Books, and parts of Books contrary to such Act, and carry them before <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And all Printers, Booksellers, Book-binders, and Publishers of Books, who shall oppose such Entrance as aforesaid, to be liable to Pu<g ref="char:EOLhyphen"/>nishment. For unless Printing be under some such Regulation, and have proper Inspe<g ref="char:EOLhyphen"/>ctors, it is conceiv'd, that the Evils now labour'd under, cannot well be remedi'd.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
